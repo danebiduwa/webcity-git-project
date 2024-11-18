@@ -21,4 +21,3 @@ function calc()
                         var n2 = document.getElementById('result').value = n1*n2;   
                     }
 }
-hhbbbj
